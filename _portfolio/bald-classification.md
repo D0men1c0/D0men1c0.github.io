@@ -3,6 +3,7 @@ title: "Baldness Classification Project"
 collection: portfolio
 permalink: /portfolio/baldness-classification
 excerpt: "A deep learning project to classify different stages of baldness using CNNs and pre-trained models like ResNet50 and VGG16."
+date: 2024-04-10
 repo_url: 'https://github.com/D0men1c0/Bald-Classification'
 ---
 
