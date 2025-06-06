@@ -3,7 +3,6 @@ title: "Smart Traffic Lights (Knowledge Engineering Project)"
 collection: portfolio
 permalink: /portfolio/smart-traffic-lights
 excerpt: "An AI-powered system that optimizes traffic flow by using a Prolog knowledge base, A* search, and HMMs for traffic prediction."
-date: 2023-06-01 
 repo_url: 'https://github.com/bralani/icon22-23'
 ---
 
