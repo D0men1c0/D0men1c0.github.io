@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Domenico Lacavalla | Applied Scientist"
+title: "Domenico Lacavalla | Data Scientist"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am an Applied Scientist on a mission to use artificial intelligence to create solutions with a tangible and positive impact on the world. My passion lies at the intersection of cutting-edge research and hands-on application, where innovative ideas are transformed into robust and scalable systems.
+I am an Data Scientist on a mission to use artificial intelligence to create solutions with a tangible and positive impact on the world. My passion lies at the intersection of cutting-edge research and hands-on application, where innovative ideas are transformed into robust and scalable systems.
 
 My experience spans both industry and academia. At **IBM**, as a Data Scientist AI Associate, I design and deploy NLP, Computer Vision, and LLM solutions for enterprise clients. In parallel, I pursue my passion for research: I was a **Google Summer of Code 2024** contributor with HumanAI, where I analyzed the evolution of language in Dark Web communities (a preprint on this research is coming soon).
 
