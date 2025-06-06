@@ -3,6 +3,7 @@ title: "VisionAI Assistant (LauzHack 2024)"
 collection: portfolio
 permalink: /portfolio/visionai-lauzhack
 excerpt: "A multi-modal AI assistant developed in 22 hours at EPFL, capable of analyzing images using natural language voice commands."
+order: 3
 date: 2024-12-30
 repo_url: 'https://github.com/D0men1c0/LauzHack'
 ---

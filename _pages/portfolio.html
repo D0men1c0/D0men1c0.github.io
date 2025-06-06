@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign portfolio_items = site.portfolio | sort: 'date' | reverse %}
+{% assign portfolio_items = site.portfolio | sort: 'order' %}
 
 {% for item in portfolio_items %}
   {% include archive-single.html type="grid" %}

@@ -4,6 +4,7 @@ collection: portfolio
 permalink: /portfolio/dark-web-analysis
 excerpt: "A project focused on uncovering how language tied to criminal behavior evolves over time within Dark Web forums."
 date: 2024-09-30
+order: 2
 header:
   image: gsoc.png
   teaser: gsoc.png
