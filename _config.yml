@@ -21,7 +21,7 @@ repository               : "D0men1c0/D0men1c0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Domenico Lacavalla"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist and ML Engineer focused on applied AI. I build and deploy solutions based on NLP, computer vision, and LLMs."

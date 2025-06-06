@@ -5,8 +5,8 @@ permalink: /portfolio/dark-web-analysis
 excerpt: "A project focused on uncovering how language tied to criminal behavior evolves over time within Dark Web forums."
 date: 2024-09-30
 header:
-  image: /images/gsoc.png
-  teaser: /images/gsoc.png
+  image: gsoc.png
+  teaser: gsoc.png
 repo_url: 'https://github.com/humanai-foundation/ISSR/tree/main/ISSR_Dark_Web_Domenico_Lacavalla'
 paper_url: 'https://medium.com/@domenicolacavalla8/examination-of-the-evolution-of-language-among-dark-web-users-67fd3397e0fb'
 ---

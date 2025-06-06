@@ -5,8 +5,8 @@ permalink: /portfolio/gemma-benchmark-suite
 excerpt: "An open-source toolkit designed to democratize LLM analysis and benchmarking with deep customization and minimal compute requirements."
 date: 2025-05-01
 header:
-  image: /images/benchmark_models.gif
-  teaser: /images/benchmark_models.gif
+  image: benchmark_models.gif
+  teaser: benchmark_models.gif
 repo_url: 'https://github.com/D0men1c0/Benchmark-Gemma-Models'
 paper_url: 'https://medium.com/@domenicolacavalla8/customizable-llm-evaluation-benchmarking-gemma-and-beyond-with-benchmark-gemma-models-9dc6a5266be8'
 ---
