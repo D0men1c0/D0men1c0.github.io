@@ -61,7 +61,7 @@ author:
   lastfm           : # Username
   linkedin         : "domenico-lacavalla"
   mastodon         : # URL
-  medium           : "@domenicolacavalla8"
+  medium           : "domenicolacavalla8"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -222,7 +222,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  hackathons:
     output: true
     permalink: /:collection/:path/
 
