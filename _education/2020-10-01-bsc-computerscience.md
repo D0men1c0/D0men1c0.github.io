@@ -1,7 +1,7 @@
 ---
 title: "BSc in Computer Science, 110/110 with Honours"
 collection: education
-date: 2020-10-01
+date: 2020/09 - 2023/07
 venue: "UNIBA (Università Degli Studi di Bari 'Aldo Moro')"
 location: "Bari, Italy"
 excerpt: "Thesis on the reproducibility of recommender systems, focusing on aligning evaluation metrics within the ClayRS open-source framework."
