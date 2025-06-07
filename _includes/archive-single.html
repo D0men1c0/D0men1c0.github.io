@@ -52,6 +52,9 @@
                 {% else %}
                   {{ post.date | date: "%B %Y" }}
                 {% endif %}
+                {% if post.venue %}
+                  <span style="margin-left: 1em;"><i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ post.venue }}</span>
+                {% endif %}
               {% elsif post.collection == 'hackathons' %}
                 {% if post.role %}
                   <strong>{{ post.role }}</strong> on {{ post.date | date: "%B %d, %Y" }}

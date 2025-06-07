@@ -1,5 +1,5 @@
 ---
-title: "IBM Data Scientist AI Associate"
+title: "IBM - Data Scientist AI Associate"
 collection: work
 venue: "IBM"
 location: "Bari, Italy"
