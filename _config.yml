@@ -283,6 +283,9 @@ defaults:
       type: volunteering
     values:
       layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _pages
   - scope:
       path: ""
