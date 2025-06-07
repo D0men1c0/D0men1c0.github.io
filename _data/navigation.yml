@@ -20,9 +20,12 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  #- title: "Hackathons"
-  #  url: /hackathons/  
-  
+  - title: "Hackathons"
+    url: /hackathons/  
+
+  - title: "Volunteering"
+    url: /volunteering/
+
   - title: "CV"
     url: /cv/
     

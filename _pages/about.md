@@ -17,6 +17,7 @@ This balance between theory and practice also defines my academic journey. After
 
 My goal is to continue on this path by pursuing a **PhD**. I aim to deepen my knowledge in Natural Language Processing and contribute to solving complex problems, turning research into real-world progress.
 
+Beyond my professional and academic pursuits, I have a passion for boxing and enjoy the mental challenge of solving Rubik's cubes and other puzzles.
 ---
 
 ## Tech Stack
