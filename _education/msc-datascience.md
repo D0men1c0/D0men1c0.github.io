@@ -1,7 +1,8 @@
 ---
 title: "MSc in Data Science"
 collection: education
-date: 2023/10 - 2026/03
+start_date: 2023-10
+end_date: 2026-03
 venue: "UNIBA (Università Degli Studi di Bari 'Aldo Moro')"
 location: "Bari, Italy"
 excerpt: "An advanced master's program focused on state-of-the-art techniques in machine learning and statistical analysis, pursued while working full-time as a Data Scientist at IBM."

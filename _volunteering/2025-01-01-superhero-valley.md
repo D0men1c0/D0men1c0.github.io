@@ -1,7 +1,7 @@
 ---
 title: "Mentee at Superhero Valley"
 collection: volunteering
-date: 2025-01-01
+date: 2025-02
 excerpt: "Selected as one of the Italian students for the mentorship program of Superhero Valley, a community dedicated to guiding students in computer science fields."
 ---
 

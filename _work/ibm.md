@@ -1,7 +1,8 @@
 ---
 title: "Data Scientist AI Associate"
 collection: work
-date: 2023-10-17 - Present
+start_date: 2023-10-17
+end_date: "Present"
 venue: "IBM"
 location: "Bari, Italy"
 excerpt: "Designing and deploying end-to-end AI solutions, focusing on NLP, MLOps, and large-scale performance optimization on IBM Cloud."
