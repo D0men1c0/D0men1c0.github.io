@@ -148,5 +148,37 @@
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
+  ],
+  "hackathons": [
+    {
+      "name": "Hackathon 1",
+      "date": "2014-01-01",
+      "venue": "Venue for hackathon 1",
+      "description": "Short description of hackathon 1",
+      "url": ""
+    },
+    {
+      "name": "Hackathon 2",
+      "date": "2015-01-01",
+      "venue": "Venue for hackathon 2",
+      "description": "Short description of hackathon 2",
+      "url": ""
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "Organization 1",
+      "position": "Volunteer position 1",
+      "date": "2014-01-01",
+      "summary": "Short summary of volunteer position 1",
+      "highlights": []
+    },
+    {
+      "organization": "Organization 2",
+      "position": "Volunteer position 2",
+      "date": "2015-01-01",
+      "summary": "Short summary of volunteer position 2",
+      "highlights": []
+    }
   ]
 }
