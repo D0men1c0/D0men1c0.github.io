@@ -1,5 +1,5 @@
 ---
-title: "Google Summer of Code (GSoC) Open Source Contributor"
+title: "Open Source Contributor"
 collection: work
 date: 2024-05-27
 start_date: 2024-05-27
