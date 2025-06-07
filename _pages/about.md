@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Domenico Lacavalla | Data Scientist"
+title: "Domenico Lacavalla | Data Scientist - ML Engineer"
 author_profile: true
 redirect_from: 
   - /about/
