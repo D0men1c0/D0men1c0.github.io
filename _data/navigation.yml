@@ -13,7 +13,14 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
+  
+  - work:
+    output: true
+    permalink: /:collection/:path/
+  - education:
+    output: true
+    permalink: /:collection/:path/
+
   - title: "Portfolio"
     url: /portfolio/
         

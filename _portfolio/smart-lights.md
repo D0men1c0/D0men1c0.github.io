@@ -4,7 +4,10 @@ collection: portfolio
 permalink: /portfolio/smart-traffic-lights
 excerpt: "An AI-powered system that optimizes traffic flow by using a Prolog knowledge base, A* search, and HMMs for traffic prediction."
 order: 4
-date: 2023-06-01 
+date: 2023-06-01
+header:
+  image: icon22.png
+  teaser: icon22.png
 repo_url: 'https://github.com/bralani/icon22-23'
 ---
 
