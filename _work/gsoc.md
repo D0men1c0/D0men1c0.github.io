@@ -1,5 +1,5 @@
 ---
-title: "Open Source Contributor"
+title: "GSoC - Open Source Contributor"
 collection: work
 start_date: 2024-05-27
 end_date: 2024-09-23

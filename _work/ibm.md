@@ -1,5 +1,5 @@
 ---
-title: "Data Scientist AI Associate"
+title: "IBM - Data Scientist AI Associate"
 collection: work
 start_date: 2023-10-17
 end_date: "Present"
