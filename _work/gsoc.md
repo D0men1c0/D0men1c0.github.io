@@ -1,7 +1,7 @@
 ---
 title: "Open Source Contributor"
 collection: work
-date: 2024-05-01
+date: 2024-05-27 - 2024-09-23
 venue: "Google Summer of Code (GSoC) 2024 @ HumanAI"
 location: "Remote"
 excerpt: "Analyzed 500k Dark Web discussion points using NLP models to identify key topics and deployed predictive models on Hugging Face to forecast trends."
