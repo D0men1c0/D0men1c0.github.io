@@ -1,6 +1,6 @@
 ---
 title: 'Customizable LLM Evaluation: Benchmarking Gemma and Beyond'
-date: 2025-04-15
+date: 2025-05-15
 permalink: /posts/2025/04/gemma-benchmark-article/
 tags:
   - LLM

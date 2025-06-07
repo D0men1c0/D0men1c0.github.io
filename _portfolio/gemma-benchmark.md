@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/gemma-benchmark-suite
 excerpt: "An open-source toolkit designed to democratize LLM analysis and benchmarking with deep customization and minimal compute requirements."
 order: 1
-date: 2025-05-01
+date: 2025-05-15
 header:
   image: benchmark_models.gif
   teaser: benchmark_models.gif
