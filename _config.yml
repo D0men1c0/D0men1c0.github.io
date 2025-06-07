@@ -229,6 +229,12 @@ collections:
   volunteering:
     output: true
     permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -244,6 +250,24 @@ defaults:
       comments: true
       share: true
       related: true
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _pages
   - scope:
       path: ""
