@@ -268,6 +268,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _hackathons
+  - scope:
+      path: ""
+      type: hackathons
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _volunteering
+  - scope:
+      path: ""
+      type: volunteering
+    values:
+      layout: single
   # _pages
   - scope:
       path: ""
