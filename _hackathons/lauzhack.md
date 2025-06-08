@@ -6,8 +6,8 @@ venue: "EPFL, Lausanne"
 role: "Participant"
 excerpt: "A multi-modal AI assistant developed in 22 hours, capable of analyzing images using natural language voice commands."
 header:
-  image: lauzhack.gif
-  teaser: lauzhack.gif
+  image: lauzhack.jpg
+  teaser: lauzhack.jpg
 repo_url: 'https://github.com/D0men1c0/LauzHack'
 ---
 
