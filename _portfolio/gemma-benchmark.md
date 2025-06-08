@@ -26,6 +26,7 @@ To democratize Large Language Model (LLM) analysis by providing an open-source e
 - **Performance on Free Hardware**: Achieves a **4-minute** benchmark run for **500 samples** using the Gemma-2B model in 4-bit mode on a single Colab T4 GPU.
 - **Democratized Access**: Enables students, researchers, and practitioners without access to expensive hardware to conduct meaningful and complex LLM evaluations.
 - **Community Adoption**: The toolkit has been featured in tutorials and demos as a prime example of accessible LLM experimentation.
+- **Open Science**: The results, models, and code were communicated through an in-depth [Medium article](https://medium.com/@domenicolacavalla8/customizable-llm-evaluation-benchmarking-gemma-and-beyond-with-benchmark-gemma-models-9dc6a5266be8) and fully open-sourced on GitHub.
 
 ## Tech Stack
 - Python, PyTorch, TensorFlow, Transformers, Hugging Face, Scikit-learn, Streamlit
