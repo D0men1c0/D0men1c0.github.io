@@ -6,6 +6,7 @@ excerpt: "A three-stage pipeline automating 3D animation from static meshes to t
 order: 2
 date: 2025-10-15
 repo_url: 'https://github.com/D0men1c0/Text2Motion'
+paper_url: 'https://medium.com/@domenicolacavalla8/text2motion-from-text-to-3d-animation-for-any-mesh-5f437165eb96'
 ---
 
 ## Goal
@@ -21,7 +22,7 @@ The system is organized in three stages:
 ## Key Metrics & Results
 - Achieved **92% armature classification accuracy** on the Truebones Zoo dataset.
 - The pipeline successfully automates the full workflow from static mesh to animated character driven by text descriptions.
-- Published results in the "Text2Motion" article.
+- Published results in the ["Text2Motion" article on Medium](https://medium.com/@domenicolacavalla8/text2motion-from-text-to-3d-animation-for-any-mesh-5f437165eb96).
 
 ## Tech Stack
 - Python, PyTorch, Transformers, CUDA, OpenCV, SBERT, T5
