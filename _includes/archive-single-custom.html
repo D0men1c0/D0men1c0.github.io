@@ -1,0 +1,29 @@
+{% include base_path %}
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    {% if post.title %}
+      <h3 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h3>
+    {% endif %}
+
+    <p class="page__meta">
+      {% if post.start_date %}
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+        <time datetime="{{ post.start_date | date_to_xmlschema }}">
+          {{ post.start_date | date: "%B %Y" }} - {% if post.end_date == "Present" %}Present{% else %}{{ post.end_date | date: "%B %Y" }}{% endif %}
+        </time>
+      {% endif %}
+      
+      {% if post.venue %}
+        <span style="margin-left: 1em;"><i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ post.venue }}</span>
+      {% endif %}
+    </p>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+
+  </article>
+</div>

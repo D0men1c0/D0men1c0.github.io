@@ -1,17 +1,16 @@
 ---
-title: "Data Scientist AI Associate"
+title: "Data Scientist & Applied Scientist"
 collection: work
 venue: "IBM"
 location: "Bari, Italy"
 date: 2023-10-01
 start_date: 2023-10-17
-end_date: "Present"
-excerpt: "Designing and deploying end-to-end AI solutions, focusing on NLP, MLOps, and large-scale performance optimization on IBM Cloud."
+end_date: 2026-01-11
+excerpt: "Designed and deployed end-to-end AI solutions in NLP, computer vision, and LLMs, focusing on multimodal retrieval, anomaly detection, and HPC optimization."
 ---
 
-* Utilized generative AI and fine-tuned BERT to analyze 4M conversations, identify trends, apply clustering, and present results to stakeholders.
-* Built and deployed customer segmentation models handling 6M data points, integrating a full training pipeline with automated retraining.
-* Engineered production AI pipeline leveraging OCR/OMR, NER, LLMs and Speech-to-Text for 10M+ assets, optimizing digitization to minute-scale.
-* Applied ResNet (86% score) & CLIP (93% score) to evaluate fidelity of OMR output (Audiveris) against original digitized scores.
-* Initiated HPC (H100 GPUs) exploration and parallelization strategy using SLURM aiming to halve processing time for core digitization primitives.
-* Optimized complex ETL query execution from 20 hours to 1 hour by refactoring SQL and leveraging Spark on IBM Cloud with multithreading.
+* Implemented CPU multimodal retrieval (Grounding DINO, SBERT-Whisper) boosting speed 31% and recall to 83%.
+* Orchestrated ancient map geocoding (68.6% acc) fusing GenAI correction and DBSCAN under custom validation.
+* Bootstrapped a few-shot SBERT classifier achieving 73.4% accuracy via 10-shot LLM labeling; deployed via ONNX.
+* Saved $1,000+/mo on 5M+ samples via a hybrid LLM/SBERT anomaly detection pipeline for sentiment analysis.
+* Boosted summarization throughput 5x and cut waste 21.7% via parallelized LLM inference on A100 HPC.
